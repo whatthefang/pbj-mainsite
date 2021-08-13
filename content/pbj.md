@@ -6,5 +6,10 @@ title = "PBJ"
 block = "header-3"
 logo = "/uploads/ko4.jpg"
 template = "simple-header"
+[[page_sections]]
+block = "one-column-1"
+content = "this is content"
+headline = "headline"
+template = "1-column-text"
 
 +++
