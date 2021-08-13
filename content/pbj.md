@@ -8,7 +8,7 @@ logo = "/uploads/ko4.jpg"
 template = "simple-header"
 [[page_sections]]
 block = "one-column-1"
-content = "this is content"
+content = "<img src=\"/uploads/2018/06/21/edit.gif\">this is content"
 headline = "headline"
 template = "1-column-text"
 
