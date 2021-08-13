@@ -1,7 +1,7 @@
 +++
 date = 2018-06-28T17:17:55Z
 layout = "blocks"
-title = "All Available Blocks."
+title = "PBJ"
 [[page_sections]]
 block = "header-3"
 logo = "/uploads/2018/06/21/forestry-full.svg"
